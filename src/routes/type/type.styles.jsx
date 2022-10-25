@@ -36,7 +36,7 @@ export const Header=styled.header`
     &.two{
         background-color:${color2};
         ${Back}{
-            color: ${color1};
+            color: ${color2};
         }
     }
     &.three{

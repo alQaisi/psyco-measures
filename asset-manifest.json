@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/psyco-measures/static/css/main.16226f71.css",
-    "main.js": "/psyco-measures/static/js/main.61cae5be.js",
+    "main.js": "/psyco-measures/static/js/main.49529193.js",
     "static/js/787.0a975e47.chunk.js": "/psyco-measures/static/js/787.0a975e47.chunk.js",
     "index.html": "/psyco-measures/index.html",
     "main.16226f71.css.map": "/psyco-measures/static/css/main.16226f71.css.map",
-    "main.61cae5be.js.map": "/psyco-measures/static/js/main.61cae5be.js.map",
+    "main.49529193.js.map": "/psyco-measures/static/js/main.49529193.js.map",
     "787.0a975e47.chunk.js.map": "/psyco-measures/static/js/787.0a975e47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16226f71.css",
-    "static/js/main.61cae5be.js"
+    "static/js/main.49529193.js"
   ]
 }

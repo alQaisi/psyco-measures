@@ -58,7 +58,7 @@ export const Header=styled.header`
         }
     }
     width: 100%;
-    height: 325px;
+    height: 350px;
     text-align: center;
     box-sizing: border-box;
     padding:100px 25px 25px;

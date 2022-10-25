@@ -1,4 +1,4 @@
-import { useContext, useState, useEffect, Children } from 'react';
+import { useState, useEffect, Children } from 'react';
 import { useParams,useNavigate,Navigate } from 'react-router';
 import { useItemsContext } from '../../context/Items.context';
 import { Header,Back,QuestionsContainer,ProgressBar,Answer } from './type.styles';

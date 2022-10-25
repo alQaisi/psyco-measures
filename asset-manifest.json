@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/psyco-measures/static/css/main.16226f71.css",
+    "main.js": "/psyco-measures/static/js/main.8b07c861.js",
+    "static/js/787.0a975e47.chunk.js": "/psyco-measures/static/js/787.0a975e47.chunk.js",
+    "index.html": "/psyco-measures/index.html",
+    "main.16226f71.css.map": "/psyco-measures/static/css/main.16226f71.css.map",
+    "main.8b07c861.js.map": "/psyco-measures/static/js/main.8b07c861.js.map",
+    "787.0a975e47.chunk.js.map": "/psyco-measures/static/js/787.0a975e47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16226f71.css",
+    "static/js/main.8b07c861.js"
+  ]
+}
